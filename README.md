@@ -1,6 +1,6 @@
-# Camara Proyect
+# Web Service
 
-> aplicacion para abrir la camara y desplegar una foto
+> aplicacion para realizar un llamado a un servicio web
 
 ## Usage
 
